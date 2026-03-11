@@ -3,11 +3,11 @@
 ## About Me
 - Pre-engineering student in Pakistan
 - Interested in AI and Data Science
-- Currently learning Python and Machince Learning
+- Currently learning Python and Machine Learning
 - Interested in studying abroad
 
 ## Skills 
-- Python (Biginner)
+- Python (Beginner)
 - Basic programming
 - Learning Machine Learning
 - Typing skill: 40 WPM max
