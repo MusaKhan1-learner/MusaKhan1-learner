@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Musa Khan 👋
 
-<!--
-**MusaKhan1-learner/MusaKhan1-learner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Pre-engineering student in Pakistan
+- Interested in AI and Data Science
+- Currently learning Python and Machince Learning
+- Interested in studying abroad
 
-Here are some ideas to get you started:
+## Skills 
+- Python (Biginner)
+- Basic programming
+- Learning Machine Learning
+- Typing skill: 40 WPM max
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- BMI Calculator (Python)
+
+## Goals
+- Become an AI Scientist / Data Scientist
+- Build useful AI projects that help people
+- Study abroad for higher education
+- Improve Python and Machine Learning skills
+- Improve coding productivity
