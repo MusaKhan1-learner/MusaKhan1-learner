@@ -1,4 +1,4 @@
-## Hi, I'm Musa Khan 👋
+## Hi, I'm Musa Khan 
 
 ## About Me
 - Pre-engineering student in Pakistan
